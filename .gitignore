@@ -1,0 +1,13 @@
+# Ignore Unity auto-generated folders
+Library/
+Logs/
+Temp/
+Obj/
+Build/
+Builds/
+UserSettings/
+MemoryCaptures/
+
+# Ignore Unity Package Cache
+Packages/
+PackageCache/
